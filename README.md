@@ -15,18 +15,18 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- 
-- The project aims to find the key variables that drive a borrower to default on a loan
-  and hence mititgate the issuance of such loans.
-- 
-- The dataset is obtained from one of the largest online lenders "LendingClub" for the years 2007 through 2011.
+
+The project aims to find the key variables that drive a borrower to default on a loan,
+and hence mititgate the issuance of such loans.
+
+The dataset is obtained from one of the largest online lenders "LendingClub" for the years 2007 through 2011.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
 
 the primary driving variables that lead to default are int_rate, revol_util (the percentage of credit used by borrower), 
-loan_amnt, term of loan, verification status of borrower, Home ownership status
+loan_amnt, term of loan, verification status of borrower, Home ownership status.
 
 The interest rate of defaulters on its own is 20% higher than borrowers who successfully repay.
 
